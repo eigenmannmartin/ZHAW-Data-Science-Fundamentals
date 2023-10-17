@@ -5,7 +5,8 @@
 			"extensions": [
 				"ms-python.python",
 				"ms-toolai.juypter",
-				"analytic-signal.preview-pdf"
+				"analytic-signal.preview-pdf",
+				"ms-vscode-remote.remote-containers"
 			]
 		}
 	},
